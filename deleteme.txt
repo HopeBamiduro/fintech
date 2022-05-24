@@ -3,3 +3,6 @@ i have created a new branch called "new-feature"
 i have also created a file called deleteme.txt on new-feature branch
 i went further to add and commit the new file created (deleteme.txt)
 i would be merging from here.
+Hi Hoppy
+Happy to collaborate with you
+
